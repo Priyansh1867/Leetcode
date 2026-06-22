@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Priyansh1867/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyansh1867/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Priyansh1867/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Priyansh1867/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Priyansh1867/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyansh1867/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Priyansh1867/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyansh1867/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Priyansh1867/Leetcode/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
