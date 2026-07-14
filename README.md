@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyansh1867/Leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Priyansh1867/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Priyansh1867/Leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Priyansh1867/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Priyansh1867/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyansh1867/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Priyansh1867/Leetcode/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyansh1867/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
