@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Priyansh1867/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Priyansh1867/Leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh1867/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Priyansh1867/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Priyansh1867/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh1867/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Priyansh1867/Leetcode/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Priyansh1867/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
