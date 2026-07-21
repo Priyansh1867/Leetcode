@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyansh1867/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Priyansh1867/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyansh1867/Leetcode/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Priyansh1867/Leetcode/tree/master/0290-word-pattern) |
 | [1207-unique-number-of-occurrences](https://github.com/Priyansh1867/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Priyansh1867/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Divide and Conquer
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Priyansh1867/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Priyansh1867/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyansh1867/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/Priyansh1867/Leetcode/tree/master/0290-word-pattern) |
 ## Stack
 |  |
 | ------- |
