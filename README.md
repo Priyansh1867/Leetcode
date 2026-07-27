@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Priyansh1867/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Priyansh1867/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyansh1867/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Priyansh1867/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Sorting
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Priyansh1867/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Priyansh1867/Leetcode/tree/master/0229-majority-element-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Priyansh1867/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Two Pointers
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyansh1867/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
