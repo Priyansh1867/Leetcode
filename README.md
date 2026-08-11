@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Priyansh1867/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Priyansh1867/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Priyansh1867/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Priyansh1867/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Priyansh1867/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Priyansh1867/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Priyansh1867/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Priyansh1867/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Priyansh1867/Leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Priyansh1867/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Priyansh1867/Leetcode/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
