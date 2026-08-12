@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Priyansh1867/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Priyansh1867/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Priyansh1867/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Priyansh1867/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Priyansh1867/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Priyansh1867/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Matrix
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Priyansh1867/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Priyansh1867/Leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Priyansh1867/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Priyansh1867/Leetcode/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
