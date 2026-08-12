@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Priyansh1867/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh1867/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Priyansh1867/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Priyansh1867/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Priyansh1867/Leetcode/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Priyansh1867/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Priyansh1867/Leetcode/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/Priyansh1867/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
