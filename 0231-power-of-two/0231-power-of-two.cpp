@@ -1,4 +1,19 @@
-//method 1
+//By Recursion , Time complexity :- O(log n)
+class Solution
+{
+    public:
+    bool isPowerOfTwo(int n)
+    {
+        if(n==0) return false;
+        if(n==1) return true;
+        if(n%2 == 1) return false;
+
+        return isPowerOfTwo(n/2);
+    }
+};
+
+/*
+//method 1 by while loop
 class Solution
 {
     public:
@@ -13,7 +28,6 @@ class Solution
     }
 };
 
-/*
 method 2
 
 class Solution {
