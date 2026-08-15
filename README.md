@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyansh1867/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Priyansh1867/Leetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Priyansh1867/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Priyansh1867/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Priyansh1867/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Priyansh1867/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Priyansh1867/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
