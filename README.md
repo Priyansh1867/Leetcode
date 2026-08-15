@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyansh1867/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Priyansh1867/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Priyansh1867/Leetcode/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Priyansh1867/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Priyansh1867/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Priyansh1867/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Priyansh1867/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Priyansh1867/Leetcode/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Priyansh1867/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Two Pointers
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyansh1867/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Priyansh1867/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
@@ -234,4 +238,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Priyansh1867/Leetcode/tree/master/0069-sqrtx) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Priyansh1867/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
