@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Priyansh1867/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Priyansh1867/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Priyansh1867/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Priyansh1867/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -271,10 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Priyansh1867/Leetcode/tree/master/0100-same-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Priyansh1867/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Priyansh1867/Leetcode/tree/master/0100-same-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Priyansh1867/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
