@@ -1,21 +1,21 @@
+//Tabulation Approach :- Down to Top Approach
 class Solution {
 public:
-    int recursion(int n , vector<int>&dp)
-    {
+    int fib(int n) {
         //Base Case
         if(n == 0 || n == 1) return n;
-        //check krege agar value update ho gyi means calculate ho gyi h ek baar toh return kr dege
-        if(dp[n] != -1)
+        //vector bna lege dp name ka and size n+1 rkh dege
+        vector<int>dp(n+1);
+        dp[0] = 0; // 1st value 0
+        dp[1] = 1; // 2nd value 1
+
+        //loop 2 se n tak chalayege 
+        for(int i=2 ; i<=n ; i++)
         {
-            return dp[n];
+            // starting se values calculate krke dp[i] me store krte jao
+            dp[i] = dp[i-1] + dp[i-2];
         }
-        // dp[n] = recursion(n-1 , dp) + recursion(n-2 , dp); ye bhi use kr skte h
-        dp[n] = fib(n-1) + fib(n-2);
+        // last me jo value  aayi dp[n] ki wo return krdo
         return dp[n];
-    }
-    int fib(int n) {
-        // ek dp vector bna lege jiska size n-1 rkhege aur sbme pehle hi -1 rkh dege.
-        vector<int>dp(n+1 , -1); 
-        return recursion(n , dp); 
     }
 };
